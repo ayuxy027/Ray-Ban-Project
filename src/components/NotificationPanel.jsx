@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import Card from './common/Card'
+import SettingsDropdown from './SettingsDropdown'
 
 const notifications = [
   { id: 1, title: 'New report submitted', time: '2 hours ago', type: 'report' },
